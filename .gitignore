@@ -147,3 +147,7 @@ src-tauri/**/*.rs.bk
 
 # MSVC Windows builds of rustc generate these, which store debugging information
 src-tauri/*.pdb
+
+### Tauri ###
+build
+src-tauri/target
