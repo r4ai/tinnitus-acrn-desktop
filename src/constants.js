@@ -19,6 +19,6 @@ export const REST_LENGTH = 4;
 
 // constants
 export const PLAYER_STATES = {
-    PLAY_TONE: 0,
-    PLAY_ACRN: 1
+  PLAY_TONE: 0,
+  PLAY_ACRN: 1,
 };
